@@ -103,3 +103,5 @@ docs/_build/
 
 # PyBuilder
 target/
+
+2nd/nester/setup.py

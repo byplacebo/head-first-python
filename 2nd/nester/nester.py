@@ -14,3 +14,12 @@ def print_lol(the_list):
         else:
             print(each_item)
 
+
+"""
+Sample Data.
+moives = ["The Holy Grail, 1975, "Terry Jones & Terry Gilliam", 91,
+    ["Graham Chapman",
+        ["Michael Palin", "John Cleese", "Terry Gilliam", "Eric Idle & Terry Jones"]]]
+
+
+"""
